@@ -1,0 +1,20 @@
+body{
+  
+  font-family: "mood";
+}
+.box{
+  width: 100px;
+  height: 30px;
+  cursor: pointer;
+  border-radius: 20px;
+}
+.todo{
+  width: 300px;
+  height: 30px;
+  cursor: pointer;
+  border-radius: 20px;
+}
+.landingbt{
+  width: 10rem;
+  height: 4rem;
+}
